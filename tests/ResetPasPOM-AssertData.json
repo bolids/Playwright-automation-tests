@@ -1,0 +1,8 @@
+{
+    "expForgPasURL": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/requestPasswordResetCode",
+    "expForgPasFormName": "Reset Password",
+    "expSuccessResetPasURL": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/sendPasswordReset",
+    "expSuccessResetPasFormName": "Reset Password link sent successfully"
+}
+
+       
